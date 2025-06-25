@@ -43,7 +43,6 @@ The Story includes:
 
 - Download the .twbx file.
 - Open it using Tableau Desktop.
-- Alternatively, access the Story via Tableau Public (link provided if available).
 
 ---
 
